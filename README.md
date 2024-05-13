@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sohan-2001 (Sohan Karfa)
-- 👀 I’m interested in C++ & Python
-- 🌱 I’m currently learning Machine Learning & App Development
+- 👀 I’m interested in C++ & Python & Android Development With Kotlin
+- 🌱 I’m currently learning Machine Learning & Android App Development With Kotlin
 - 📫 sohan100karfa@gmail.com
 - https://sohankarfa-8zdm.onrender.com/
 
