@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sohan-2001 (Sohan Karfa)
-- 👀 I’m interested in C++ & Python & Android Development With Kotlin
+- 👀 I’m interested in Full Stack Web Development & Python & Android Development 
 - 🌱 I’m currently learning Machine Learning & Android App Development With Kotlin
 - 📫 sohan100karfa@gmail.com
 - https://sohankarfa.vercel.app/
